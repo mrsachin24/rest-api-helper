@@ -1,0 +1,12 @@
+{
+    "BrandName": "Samsung",
+    "Features": {
+        "Feature": [
+            "3GB RAM",
+            "PUT Method",
+            "This data is from 2 text file"
+        ]
+    },
+    "Id": 123,
+    "LaptopName": "Pro"
+}
